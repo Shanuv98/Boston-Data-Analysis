@@ -18,7 +18,7 @@ Here, We analyze the Boston Housing Dataset and see the varions in that dataset 
 	DIS		: Weighted distances to five Boston employment centers
 	RAD		: Index of accessibility to radial highways
 	TAX		: Full-value property tax rate per $10,000
-	PTRATIO	: Pupil-teacher ratio by town
+	PTRATIO		: Pupil-teacher ratio by town
 	B		: 1000(Bk — 0.63)², where Bk is the proportion of [people of African American descent] by town
 	LSTAT		: Percentage of lower status of the population
 	MEDV		: Median value of owner-occupied homes in $1000s
